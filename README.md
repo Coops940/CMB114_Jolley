@@ -14,18 +14,11 @@ DIRECTORY:
 	|--render_and_generate_file_v2.py
 	|--search_file.py
 	|--__pycache__
-		|--graph_results.cpython-39
-		|--graph_results.cpython-310
-		|--graph_results_v2.cpython-310
-		|--gui.cpython-310
-		|--gui_v2.cpython-310
-		|--main.cpython-310
-		|--main_v2.cpython-310
-		|--render_and_generate_file.cpython-39
-		|--render_and_generate_file.cpython-310
-		|--render_and_generate_file_v2.cpython-310
-		|--search_file.cpython-39
-		|--search_file.cpython-310
+		|--graph_results_v2.cpython-38
+		|--gui_v2.cpython-38
+		|--main_v2.cpython-38
+		|--render_and_generate_file_v2.cpython-38
+		|--search_file.cpython-38
 |--CMB114 Project - Dr Kenny Jolly.docx
 |--README.md
 
@@ -38,6 +31,8 @@ LIBRARIES:
 - os
 
 USER INSTRUCTIONS
+**ENSURE THAT ORCA IN INSTALLED ON COMPUTER**
+
 - Clone repository to local device.
 - Open main_v2.py.
 - Run Python script.
