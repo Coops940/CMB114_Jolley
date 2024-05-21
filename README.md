@@ -21,6 +21,7 @@ DIRECTORY:
 		|--search_file.cpython-38
 |--CMB114 Project - Dr Kenny Jolly.docx
 |--README.md
+|--LICENSE
 
 LIBRARIES:
 - numpy
